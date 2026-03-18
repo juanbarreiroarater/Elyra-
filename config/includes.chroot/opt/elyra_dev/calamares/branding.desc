@@ -1,0 +1,21 @@
+---
+componentName:  elyra
+
+strings:
+    productName:         Elyra Linux
+    shortProductName:    Elyra
+    productVersion:      2026.04 "Free Bird"
+    shortProductVersion: 2026.04
+    versionedName:       Elyra Linux 2026.04 "Free Bird, Rolling up System, no necesita actualizar, las actualizaciones solicitarán permiso cada vez que se publiquen"
+    shortVersionedName:  Elyra 
+    bootloaderEntryName: Elyra
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "icon.png"
+    productWelcome:      "squid.png"  # Aquí es donde se verá el rostro androide
+
+style:
+    sidebarBackground:    "#2c3e50"
+    sidebarText:          "#ecf0f1"
+    sidebarTextSelect:    "#3498db"
